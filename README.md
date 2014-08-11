@@ -3,7 +3,7 @@
 Facebox is a jQuery-based, Facebook-style lightbox which can display images, divs, or entire remote pages.
 Facebox-Bootstrap is a drop-in replacement for Facebox which makes it work perfectly with Bootstrap's "modal".
 
-[Download the latest release](http://github.com/mdchaney/facebox/zipball/master)
+[Download the latest release](http://github.com/mdchaney/facebox-bootstrap/zipball/master)
 
 ## Compatibility
 
